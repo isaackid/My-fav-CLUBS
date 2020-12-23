@@ -1,0 +1,179 @@
+body {
+  background-color: azure;
+}
+#header {
+  text-align: center;
+  background-color:lightsteelblue;
+  border-bottom: 0.25px solid navy;
+  margin: -25px -15px 0px -15px;
+  padding-top: 20px
+}
+#navbar {
+display: flex;
+justify-content: space-evenly;
+}
+#navbar a{
+  text-decoration: none;
+  color: navy;
+}
+#navbar li {
+  list-style-type: none;
+  border: 1px solid navy;
+  border-radius: 21px;
+  padding: 10px;
+  background-color: lightcyan;
+}
+#navbar li:hover {
+  background-color: cadetblue;
+}
+#content {
+  border: 1px solid navy;
+  padding: 25px;
+  margin: 50px;
+}
+#rmcf {
+  color: navy;
+}
+#rmcfnav {
+justify-content: space-evenly;
+border: none;
+}
+#rmcfnav a {
+  text-decoration: none;
+  color: navy;
+}
+#rmcfnav li {
+  list-style-type: none;
+  border: 1px solid navy;
+  border-radius: 100px;
+  padding: 11px;
+  background-color: white;
+}
+#rmcfnav li:hover {
+  background-color: lightblue;
+  }
+  #rmpic {
+  width: 550px;
+  height: 300px;
+}
+#rmp {
+  border: 1px solid navy;
+  padding: -25px;
+  margin: 25px;
+}
+#rmtable {
+  border: 1px solid navy;
+  padding: 10px
+  
+}
+#tots {
+  color: gray;
+}
+#spurnav {
+justify-content: space-evenly;
+border: none;
+}
+#spurnav a {
+  text-decoration: none;
+  color: navy;
+}
+#spurnav li {
+  list-style-type: none;
+  border: 1px solid navy;
+  border-radius: 100px;
+  padding: 11px;
+  background-color: white;
+}
+#spurnav li:hover {
+  background-color: lightblue;
+  }
+  #totpic {
+  width: 500px;
+  height: 300px;
+}
+#totp{
+  border: 2px solid black;
+  padding: 20px;
+  margin: 50px;
+}
+#spurstable {
+  border: 1px solid gray;
+  padding: 10px
+}
+#rbl {
+  color: orangered;
+}
+#rblheader {
+  text-align: center;
+  background-color:lightsteelblue;
+  border-bottom: 0.25px solid navy;
+  margin: -25px -15px 0px -15px;
+  padding-top: 20px
+}
+#rblnavbar {
+display: flex;
+justify-content: space-evenly;
+}
+#rblnavbar a{
+  text-decoration: none;
+  color: navy;
+}
+#rblnavbar li {
+  list-style-type: none;
+  border: 1px solid navy;
+  border-radius: 21px;
+  padding: 10px;
+  background-color: lightcyan;
+}
+#rblnavbar li:hover {
+  background-color: cadetblue;
+}
+#rblnav {
+justify-content: space-evenly;
+border: none;
+}
+#rblnav a {
+  text-decoration: none;
+  color: black;
+}
+#rblnav li {
+  list-style-type: none;
+  border: 1px solid black;
+  border-radius: 100px;
+  padding: 11px;
+  background-color: white;
+}
+#thepic {
+  width: 550px;
+  height: 300px;
+}
+#rblp {
+  border: 2px solid black;
+  padding: 20px;
+  margin: 50px;
+}
+#rblnav {
+justify-content: space-evenly;
+border: none;
+}
+#rblnav a {
+  text-decoration: none;
+  color: black;
+}
+#rblnav li {
+  list-style-type: none;
+  border: 1px solid black;
+  border-radius: 100px;
+  padding: 11px;
+  background-color: white;
+}
+#rblnav li:hover {
+  background-color: orangered;
+  }
+  #rblbody {
+    background-color: white;
+  }
+#rbltable {
+  border: 1px solid orangered;
+  padding: 10px
+}
